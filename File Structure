@@ -1,0 +1,9 @@
+.
+├── data/
+│   └── movie_plots.json
+├── prompts/
+│   └── few_shot_examples.txt
+├── run_experiments.py
+├── evaluate.py
+├── requirements.txt
+└── README.md
